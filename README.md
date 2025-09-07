@@ -30,7 +30,7 @@ Ce projet implémente un système de prédiction du diabète basé sur l'apprent
 ## 📈 Évaluation
 
 Les métriques utilisées pour évaluer les performances :
-- Accuracy
+- Accuracy (exactitude)
 - Precision
 - Recall
 - F1-Score
