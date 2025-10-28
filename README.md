@@ -7,7 +7,7 @@ Ce projet implémente un système de prédiction du diabète basé sur l'apprent
 - Appliquer des algorithmes de machine learning pour la classification.
 - Comparer les performances de Random Forest avec d'autres modèles.
 - Optimiser la précision à l'aide de la recherche par grille (GridSearchCV)
-- Déployer le modèle dans un application web streamlit 
+- Déployer le modèle dans une application web streamlit 
 
 ## 📂 Structure du projet
 
@@ -37,7 +37,7 @@ Les métriques utilisées pour évaluer les performances :
 - F1-Score
 - Matrice de confusion
 
-## Nota: Ici, vous ne verrez que les fichiers du projet de l'application streamlit. le notebook contenant le dataprocessing, les entraînements et sauvegarde du modèle fera l'objet d'un autre repository
+## Nota: Ici, vous ne verrez que les fichiers du projet de l'application streamlit. Le notebook contenant le dataprocessing, les entraînements et sauvegarde du modèle fera l'objet d'un autre repository
 
 ## 🔍 Dataset
 
